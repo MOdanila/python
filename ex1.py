@@ -1,4 +1,4 @@
-n = int(input("Introduceti nr. de elemente din lista: "))
+n = int(input("Introduceti nr. elementelor din lista: "))
 lista = []
 pare=0
 impare=0
